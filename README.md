@@ -1,3 +1,5 @@
 # bill-project
 This is my first Git Repository. <br>
-Aothor Aorko, PHP developer
+Aothor Aorko, PHP developer . <br>
+From Canada Toronto
+
